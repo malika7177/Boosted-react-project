@@ -1,0 +1,31 @@
+.performance {
+    width: 100%;
+    height: 700px;
+    background: url(https://s3-alpha-sig.figma.com/img/4b65/363e/82c44a83deb621d51b76476d4e949bcb?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Lckqq5ziX9soMCqax7ZTdgqODlLzjhOhEf4Hx19-2CrJRB5swn0N5OgQeCqcERSxeJ6C5syHXPnctOk1gmiw0kKxYs95CY3rpWB0vOQxiQ3Rkbqy1rIOlgkgo8gsClO0BcnQWzxOiPUIWx-SY-77OC5NbEpH2-NMwsFJP2A8MBcVXfEGfPWqYgr6RhPcDB5XtpSG3f~dH38l9ZuTzcMHESRP9R0TMSFjGlwbs08FB634yjkFXCd~t53TUexwiekW4PUGiSxzF70rGhfjcgRh7osMolBmYT3jynRoovy8pfPheRE9Ejx7ldAoYqd3837qT0wyZ7iEJrc10rmamO2mJQ__) no-repeat;
+    text-align: center;
+}
+
+.performance span {
+    display: block;
+    padding-top: 50px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 1px;
+}
+
+.performance h1 {
+    padding-top: 10px;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 50px;
+}
+
+.performance p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 1px;
+}

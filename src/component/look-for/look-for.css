@@ -1,0 +1,105 @@
+.look-for {
+    width: 100%;
+    padding-top: 50px;
+}
+
+.text {
+    width: 100%;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.text h1 {
+    font-size: 32px;
+    line-height: 36px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.text p {
+    padding-top: 20px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.img {
+    width: 100%;
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.img1 {
+    width: 500px;
+    height: 500px;
+    background: url(https://s3-alpha-sig.figma.com/img/adf2/6b09/f71cf3d912ea7ea49bc1dd8884654c38?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=By4~dwWX1zxuxHOXywjVJELJbBOj~MawRVtLYtc8zBJ3RivV4opcQhu-VpdZmQDXZnx2HzxlrKkSGyxzXZIfX937wmRvjGp7mR-NyCnVpykOyxjdem2K9IUWRHH-Sv~qo7pxK6-g0rvibatFvXj9-tbMuxpC-ANfK0BIKORSHuMaNkLK4utc~jHa5vuQFIBnbBQXvnqF6wJyiGxZ-k~GUaWvnq7FPm1XIyAfUoQ-gmuGoC4UnURvTEZiFJBNGikjGXIs4f3F~KlAkNp0XKUKnfLsIRGRRzjMX6vKuNDI95Mz46QViU~c~hc0PoJtv7zAHCmCrJbB1ULIZ2v3895DVA__) no-repeat;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img1 i{
+    font-size: 50px;
+}
+
+.img1 h2 {
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.img1 a {
+    padding-top: 14px;
+    font-size: 18px;
+    line-height: 23px;
+    font-weight: 400;
+    color: #fff;
+    transition: all 0.5s;
+}
+
+.img1 a:hover {
+    color: #ff4a32;
+    font-weight: 500;
+}
+
+.img2 {
+    width: 500px;
+    height: 500px;
+    background: url(https://s3-alpha-sig.figma.com/img/4ebf/6792/383a566419b78a81d3e86dca202cecd9?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dlLGSMrjODfvgyReedwXPh4JjB702YUB8KM73Yls0c89dak9NxHoUKTX1g61NKnkFncNNnjll2EjiZrVK2HDOiNH9bb2P9rso164h7CHKKmBaW6HKmFMfgdoXoYjYrHL4H1PrML~FfyUXSLBpms0ezzU4cO~bSAoFvMZalWNfdZTzYv3r-zvJpAqu2Yu3340SEvxQpqGbE5sSkmdGUVnvmdw96hZS3vX4JeC6rCllne6Uoi3WEhVsFiRJO3ONyaZ8I2o9o85I0vqmrIrKO86q5dskPvE2jnJl1pxHisaDxKA1uqWucx2gjomu7R3cKoCP4uylzSMscjVjEcTJACGjA__) no-repeat;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img2 i{
+    font-size: 50px;
+}
+
+.img2 h2 {
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.img2 a {
+    padding-top: 14px;
+    font-size: 18px;
+    line-height: 23px;
+    font-weight: 400;
+    color: #fff;
+    transition: all 0.5s;
+}
+
+.img2 a:hover {
+    color: #ff4a32;
+    font-weight: 500;
+}

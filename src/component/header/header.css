@@ -1,0 +1,52 @@
+header {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img{
+    width: 160px;
+}
+
+nav{
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    gap: 40px;
+}
+
+nav ul li {
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+nav ul li a:hover {
+    transition: all 0.5s;
+    font-weight: 500;
+    color: #FF4A32;
+}
+
+.bi-person-circle{
+    padding: 10px;
+}
+
+.bi {
+    transition: all 0.5s;
+    font-size: 20px;
+}
+
+.bi:hover {
+    color: #FF4A32;
+}
+
